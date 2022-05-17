@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "871493894774",
+    "firebase_url": "https://cayyolla-91c75.firebaseio.com",
+    "project_id": "cayyolla-91c75",
+    "storage_bucket": "cayyolla-91c75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871493894774:android:016690a760f202296b1557",
+        "android_client_info": {
+          "package_name": "com.hineks.cayyolla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871493894774-d9vt213ith3nl8ioo50hjg0s6n624q1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD8eAKIARt4T2GtiMNzacZ2NUBSD9TnmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871493894774-d9vt213ith3nl8ioo50hjg0s6n624q1b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "871493894774-b5i2u9lg0kdbr11qgk30fhlii5lltblk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.CayYolla"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
